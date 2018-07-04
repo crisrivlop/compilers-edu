@@ -1,0 +1,30 @@
+{
+  "name": "compilers-edu",
+  "version": "1.0.0",
+  "description": "It's for educational purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "test-edu"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crisrivlop/compilers-edu.git"
+  },
+  "keywords": [
+    "compilers",
+    "automaton",
+    "lexer",
+    "parser"
+  ],
+  "author": "crisrivlop",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/crisrivlop/compilers-edu/issues"
+  },
+  "homepage": "https://github.com/crisrivlop/compilers-edu#readme",
+  "dependencies": {
+    "materialize": "^1.0.0",
+    "materialize-css": "^0.100.2",
+    "vue": "^2.5.16"
+  }
+}
