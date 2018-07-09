@@ -1,2 +1,18 @@
 # compilers-edu
-Este proyecto pretende compilar una serie de temas vistos en el curso de Lenguajes, Compiladores e Interpretes. Esta serie de temas serán expuestos al usuario considerando que este no tiene conocimiento alguno en las técnicas para el análisis de los compiladores o interpretes, dando así un perfil educativo a la aplicación
+
+> A educational project for Compilers module course
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+```
+
+For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
