@@ -14,7 +14,7 @@
 
         <div>
 
-            <!--  -->
+            <!-- en esta seccion es donde se encontrara el codigo referente a la maquina de estados -->
 
 
         </div>
